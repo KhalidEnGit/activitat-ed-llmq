@@ -1,0 +1,3 @@
+git branch "nombre rama" -> para crear una rama
+
+git checkout "nombre rama" -> para ir a dicha rama
